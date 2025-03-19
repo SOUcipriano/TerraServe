@@ -1,0 +1,44 @@
+.image-container-ctr {
+    height: 540px;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Minecraft-creeper-face.jpg/600px-Minecraft-creeper-face.jpg);
+    background-repeat: no-repeat;
+    background-size: 400px;
+    background-position: 10% 50%;
+    background-color: rgb(35, 31, 31);
+}
+
+.infomation-container-ctr {
+    background: none;
+    width: 55%;
+    float: right;
+    padding: 5% 0%;
+    text-align: left;
+}
+
+.infomation-container-ctr h1 {
+    display: flex;
+    justify-content: start;
+    padding: 7px 0px;
+    text-align: left;
+}
+
+.infomation-container-ctr p {
+    background: none;
+    color: white;
+}
+
+.infomation-subcontainer, .infomation-subcontainer p, .infomation-subcontainer h1{
+    background: none;
+    padding: 7px 0px;
+    color: white;
+}
+
+.button-link {
+    color: #84c94c;
+    background: none;
+    padding: 7px;
+}
+
+main {
+    text-align: center;
+}
